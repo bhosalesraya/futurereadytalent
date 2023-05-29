@@ -12,8 +12,7 @@ Interactive and responsive UI.Has many graphical and visual innovative effects.H
 Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
 User can know about health information through this website.Included the feedback Survey form to increase the scope of improvement
 #Screenshots
-
-![pic1](https://github.com/bhosalesraya/futurereadytalent/assets/78893532/668007e4-ff8e-41aa-bd3e-77c39c974645)
+![pic1](https://github.com/bhosalesraya/futurereadytalent/assets/78893532/759648c2-ad67-4549-aeca-e2f957fae1a6)
 ![pic2](https://github.com/bhosalesraya/futurereadytalent/assets/78893532/a7cfc2cd-2fbc-4a51-aead-830166c5e2a5)
 ![pic3](https://github.com/bhosalesraya/futurereadytalent/assets/78893532/21e40b36-26d4-4ee5-8397-3418571daa20)
 ![pic4](https://github.com/bhosalesraya/futurereadytalent/assets/78893532/03892300-3d08-4934-9a59-a79a26ad95db)
