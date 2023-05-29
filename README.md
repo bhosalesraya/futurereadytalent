@@ -8,7 +8,9 @@ This web based health application has been developed for the accomplishment of F
 #project demo video link -
 
 #Azure technologies used for Project
+
 Static web apps
+
 Health bot
 
 #Features and Functionalities 
