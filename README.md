@@ -1,17 +1,25 @@
 # futurereadytalent
-#Health Care
-This is a web based application developed for health related based website in india
-This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+#Technologies
 
-#Project Link - https://purple-bush-06aa91b00.3.azurestaticapps.net/
+Azure
 
-#project demo video link -
+HTML
+
+CSS
+
+Bootstrap
+
+JavaScript
 
 #Azure technologies used for Project
 
 Static web apps
 
 Health bot
+
+#Project Link - https://purple-bush-06aa91b00.3.azurestaticapps.net/
+
+#project demo video link -
 
 #Features and Functionalities 
 Interactive and responsive UI.Has many graphical and visual innovative effects.
@@ -35,15 +43,7 @@ Contact
 Healthbot
 ![pic5](https://github.com/bhosalesraya/futurereadytalent/assets/78893532/d5d608cf-cf91-4c26-a97b-3e92360dd763)
 
+#Health Care
+This is a web based application developed for health related based website in india
+This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-#Technologies
-
-Azure
-
-HTML
-
-CSS
-
-Bootstrap
-
-JavaScript
