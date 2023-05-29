@@ -34,3 +34,11 @@ Contact
 
 Healthbot
 ![pic5](https://github.com/bhosalesraya/futurereadytalent/assets/78893532/d5d608cf-cf91-4c26-a97b-3e92360dd763)
+
+
+#Technologies
+Azure
+HTML
+CSS
+Bootstrap
+JavaScript
