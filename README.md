@@ -22,7 +22,15 @@ User can know about health information through this website.Included the feedbac
 #Screenshots
 
 ![pic1](https://github.com/bhosalesraya/futurereadytalent/assets/78893532/759648c2-ad67-4549-aeca-e2f957fae1a6)
+
+About us
 ![pic2](https://github.com/bhosalesraya/futurereadytalent/assets/78893532/a7cfc2cd-2fbc-4a51-aead-830166c5e2a5)
+
+Services
 ![pic3](https://github.com/bhosalesraya/futurereadytalent/assets/78893532/21e40b36-26d4-4ee5-8397-3418571daa20)
+
+Contact
 ![pic4](https://github.com/bhosalesraya/futurereadytalent/assets/78893532/03892300-3d08-4934-9a59-a79a26ad95db)
+
+Healthbot
 ![pic5](https://github.com/bhosalesraya/futurereadytalent/assets/78893532/d5d608cf-cf91-4c26-a97b-3e92360dd763)
