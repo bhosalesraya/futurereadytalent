@@ -37,8 +37,13 @@ Healthbot
 
 
 #Technologies
+
 Azure
+
 HTML
+
 CSS
+
 Bootstrap
+
 JavaScript
